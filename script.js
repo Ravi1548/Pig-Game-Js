@@ -25,11 +25,12 @@ current0El.textContent = 0;
 current1El.textContent = 0;
 
 alert(`Rules--
+      ** use Desktop site if using mobile 😗**
  1. First player to score 50 points will win.🥳
  2. Use hold button before you get the number 0 to increase your score.😜
  3. if you get 0 then you will lost all your current scores and Your turn too.. 😂😂
  4.  Best of Luck!😎  (click Ok  to continue..)
-      ** use Desktop site if using mobile 😗**`);
+     `);
   
 
 // Taking user input (Player's name)
