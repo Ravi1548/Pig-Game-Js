@@ -118,7 +118,7 @@ btnHold.addEventListener("click", function () {
     document.getElementById(`score--${activePlayer}`).textContent =
       scores[activePlayer];
     // check if player's score >=100
-    if (scores[activePlayer] >= 20) {
+    if (scores[activePlayer] >= 50) {
       playing = false;
       diceEl.classList.add("hidden");
       openModal();
